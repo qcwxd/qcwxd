@@ -32,7 +32,7 @@ Bem-vindo ao meu espaço de aprendizado e criação! Sou apaixonado por tecnolog
 ---
 
 ### 📫 Vamos nos conectar?
-- **LinkedIn:** [(https://www.linkedin.com/in/pablo-amorim-04224b3b5/)](https://www.linkedin.com)
+- **LinkedIn:** [https://www.linkedin.com/in/pablo-amorim-04224b3b5/)](https://www.linkedin.com)
 - **E-mail:** [p.amorim08@outlook.com](mailto:seu-email@exemplo.com)
 
 > "A única maneira de aprender uma nova linguagem de programação é escrevendo programas nela." — Dennis Ritchie
